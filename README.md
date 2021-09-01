@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+## About jdevcron and it's mission
 
-You can use the [editor on GitHub](https://github.com/jdevcron/jdevcron.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+jdevcron is an open-source organization which aims to create collaboration opportunities between developers of all seniority. Our goal differes between projects but we have following things in common
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- Our organisation is open-source and accepts all enthusiast of open-source projects with no discrimination of any kind.
+- General mission is to connect contributors of all seniority and experience who are looking to collaborate on open-source projects
+- If you wish to join our organization visit the [contact section](#contact)
 
-### Markdown
+### Projects
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+jdevcron is non-profit organization with a goal of creating open-source projects. You can see our current projects below
 
 ```markdown
-Syntax highlighted code block
+# Web Core
 
-# Header 1
-## Header 2
-### Header 3
+[Check Web Core Project](https://github.com/jdevcron/jdevcron.github.io)
 
-- Bulleted
-- List
+# Clean Front-End Reference
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+[Check Clean Front-End Reference Project](https://github.com/jdevcron/Clean-Front-End-Reference)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+If you have an idea for open-source project and looking for other collaborators, you can suggest the idea to our team and will help you get started.
 
-### Jekyll Themes
+### Contact
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jdevcron/jdevcron.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+If you wan't to join our organization or maybe have some suggestions for us please contact the original project author
+[Aleksandar Trifunovic](https://github.com/aleksandar-trifunovic)
